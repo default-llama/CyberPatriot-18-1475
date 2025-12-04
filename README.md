@@ -6,4 +6,5 @@ Use this repository for scripts and information
 For Linux and Windows
 
 
-[[TEMP
+## Links
+https://github.com/Wes-Bl/Cyberpatriot-Wiki/blob/main/CyberPatriot_Linux_CheckList.pdf
