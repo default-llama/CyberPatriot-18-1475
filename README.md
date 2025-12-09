@@ -33,9 +33,10 @@ CyberPatriot=18-1475
 
 
 
-## Other CP Repo Links
+## Other CP Checklist Links
 
 https://github.com/Minagera/CyberPatriot/tree/main/Checklists/Linux
+https://github.com/Wes-Bl/Cyberpatriot-Wiki/blob/main/CyberPatriot_Linux_CheckList.pdf
 
 
 
