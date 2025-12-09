@@ -73,8 +73,45 @@ A: `rzane` and `shuntley
 
 ? pts
 
-## disable OpenSSH (FAILED)
+## Disable OpenSSH (FAILED)
 
 ? pts
 
-# 
+## Refresh the list of Updates Automatically
+
+4 pts
+
+## Install Update Automatically (FAILED)
+
+? pts
+
+## Install Updates from Important Security Updates
+
+? pts
+
+## Update Software
+
+- Systemd
+- Chromium
+- Vsftpd
+
+4 pts
+
+
+## Prohibited MP3 files are removed
+
+4 pts
+
+
+## Remove Prohibited Software
+
+- Wireshark
+- Zangband
+- aMule
+
+## Prohibited software aMule removed
+
+## Prohibited software Wireshark removed
+## Prohibited software Zangband removed
+## FTP users may log in with SSL
+
