@@ -1,1 +1,0 @@
-(Get-Content -Path $args[0]) | ForEach-Object {$_.TrimEnd()} | Where-Object {$_.trim() -ne '' } > $args[0]
