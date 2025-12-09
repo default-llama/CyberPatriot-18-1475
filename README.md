@@ -8,6 +8,7 @@ For Linux and Windows
 ## File Structure
 ```
 CyberPatriot-18-1475
+├───.git
 ├───Linux
 │   ├───Checklists+Unofficial-Answer-Keys
 │   ├───CIS-Benchmarks
@@ -18,27 +19,34 @@ CyberPatriot-18-1475
 │   │   ├───From-CYPA-Script
 │   │   ├───From-Galligher-CP
 │   │   ├───From-PatriotWare
-│   │   └───From-Ponkio-CP
+│   │   ├───From-Ponkio-CP
+│   │   └───Main-Linux-Script
 │   └───Scripts
 │       ├───Mint21
 │       └───Ubuntu24
+├───Resources
+│   └───Cyber-Dump
+│       ├───Checklist-Reading
+│       ├───Teaching-Material
+│       └───Teaching-Material-2
 ├───Server
 │   ├───Checklists+Unofficial-Answer-Keys
-│   ├───CIS Benchmarks
+│   ├───CIS-Benchmarks
 │   ├───Official-Answer-Keys
 │   ├───Script-Snapshots
+│   │   ├───From-Advanced-CyberPatriots
 │   │   ├───From-CIS-MS-Serv2019
 │   │   ├───From-CPWindowsScripts
 │   │   ├───From-CPXV-Scripts
 │   │   ├───From-CyberPatriot-Scripts
 │   │   ├───From-PatriotWare
-│   │   └───From-Ponkio-CP
+│   │   ├───From-Ponkio-CP
+│   │   └───Hardening-Kitty
 │   └───Scripts
-│       ├───Server 19
-│       └───Server 22
+│       ├───Server19
+│       └───Server22
 ├───Server+Linux
 └───Vulnerability-Categories
-
 ```
 
 
