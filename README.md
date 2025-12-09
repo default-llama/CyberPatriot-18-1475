@@ -48,18 +48,31 @@ it has multiple parts so don't braindead copy and paste
 Keep date in mind
 
 Server Script Links:
-- Really good - https://github.com/Dudcom/Advanced_CyberPatriot_Windows_Script_and_lots_of_resourcs/tree/main/Troy-High-School-windows-harden-script--main
-- https://github.com/lkotlus/PatriotWare/tree/main/Windows
+- https://github.com/Dudcom/Advanced_CyberPatriot_Windows_Script_and_lots_of_resourcs/tree/main/Troy-High-School-windows-harden-script--main
+  - new-HardeningKitty
+  - random scripts
+    - Whoo.ps1
+    - Windows-server-2019 hardening script .cmd
+    - Win server DISA STIGS Standalone ps1
+    - Scripting-main (Does not work standalone script, need txt files, generate ssh keys) (IS LINUX)
+    - 
+
 - https://github.com/akhil-ganesan/CPXV-Scripts/tree/main/ServerFiles
+  - Just script.bat and security-options.txt
 - https://github.com/AwSkies/CPWindowsScripts/blob/master/secure.bat
+- secure.bat & maybe readme (nothing needed, still short)
 - https://github.com/ProgrammerManan/CyberPatriot-Scripts/tree/main/CIS-serv2019-v3.0.1
+  - 
 - https://github.com/Happygator/CIS-Microsoft-Windows-Server-2019-Benchmark/blob/master/CIS_WinSrv2019.ps1
 
 Linux Script LInks:
 - https://github.com/ponkio/CyberPatriot/blob/master/Linux_Ubuntu.sh
-- https://github.com/BiermanM/CyberPatriot-Scripts/blob/master/README.md
+- https://github.com/BiermanM/CyberPatriot-Scripts/blob/master/README.md (SAME NAME, DOES NOT COPY)
 - https://github.com/Ryan-Galligher/CyberPatriot/blob/master/CyberPatriotScript
 - https://github.com/purujain2006/CyberPatriotLinux/blob/main/main.sh
 - https://github.com/ericwang0533/CYPA-Script/blob/master/script.sh
-- https://github.com/lkotlus/PatriotWare/tree/main/Linux
 - https://github.com/maytees/cypat-ubuntu-script/blob/master/README.md
+
+Linux & Windows Links
+- https://github.com/lkotlus/PatriotWare/tree/main/Windows
+  - Has Win & Linux, keep evverything

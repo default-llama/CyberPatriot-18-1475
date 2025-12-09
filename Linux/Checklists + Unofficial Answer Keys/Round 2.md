@@ -109,9 +109,45 @@ A: `rzane` and `shuntley
 - Zangband
 - aMule
 
-## Prohibited software aMule removed
+4 pts each
 
-## Prohibited software Wireshark removed
-## Prohibited software Zangband removed
 ## FTP users may log in with SSL
+
+
+
+# Points Unaccounted for
+Software Sources > Official Repos > Source code repositories (turn on) > save - 4 points
+sudo apt install libpam-cracklib - 4 points
+
+# My Done List
+
+
+- Update manager > install updates (only gave points for updating chromium) - 4 points
+- uninstall Zangband - 4 points
+- removed wireshark packet in Synaptic Package Manager and then uninstall wireshark - 4 points
+- cd /srv/afa and then rm *.mp3 - 4 points
+- sudo apt update && sudo apt upgrade -y didn't do anything
+- sudo nano /etc/ssh/sshd_config and then set PermitRootLogin to no didn’t do anything
+- removed dscott from admins - 3 points
+- removed jquelling - 3 points
+- removed tgianopolus - 3 points
+- created edarby - 3 points
+- sudo nano /etc/login.defs and set pass max days to 90 and min days to 30
+- sudo nano /etc/pam.d/common-password and add sha512 remember=5 to unix.so line
+- Update manager > Edit > Preferences > Refresh List of Updates Automatically - 4 points
+- Software Sources > Official Repos > Source code repositories (turn on) > save - 4 points
+- Update manager > install updates  > update everything
+  - 4 points for updating Systemd
+  - 4 points for updating Vsftpd
+- Reboot
+- sudo passwd -S -a and check all users are P
+- `sudo nano /etc/security/pquality.conf`
+- sudo apt install libpam-cracklib - 4 points
+  - seems you have to install lib-pam-cracklib to get the password minlen points
+- Firewall Configuration > Enable - 5 points
+- Upgrade to mint 21.3 Virginia
+- Install Language Packs
+- Install Multimedia Codecs
+- deleted aMule - 4 points
+
 
